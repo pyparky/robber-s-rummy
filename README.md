@@ -42,7 +42,7 @@ This project aims to create an engaging Rummy game experience by incorporating v
 To start the game:
 
 ```bash
-python main.py
+python run_game.py
 ```
 
 ## Project Goals
